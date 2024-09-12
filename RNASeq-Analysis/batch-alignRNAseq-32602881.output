@@ -1,0 +1,10 @@
+Starting our analysis Sun Nov 13 18:56:43 EST 2022
+Loading our BINF6308 Anaconda environment.
+Loading GSNAP and Samtools.
+Make directory for log files
+Build the reference genome Sun Nov 13 18:56:43 EST 2022
+Trim all reads in data/rawreads/ Sun Nov 13 18:59:02 EST 2022
+Align the reads to the reference with GSNAP Sun Nov 13 18:59:54 EST 2022
+Sort the resulting SAM files Sun Nov 13 19:25:37 EST 2022
+Index the resulting BAM files Sun Nov 13 19:26:18 EST 2022
+Alignment complete Sun Nov 13 19:26:25 EST 2022

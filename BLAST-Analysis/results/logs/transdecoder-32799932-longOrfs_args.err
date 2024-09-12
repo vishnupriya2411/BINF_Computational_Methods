@@ -1,0 +1,2 @@
+-- Skipping CMD: /shared/centos7/anaconda3/2021.11/envs/BINF-12-2021/opt/transdecoder/util/compute_base_probs.pl data/trinity_de_novo/Trinity.fasta 0 > results/trinity_de_novo.transdecoder_dir/base_freqs.dat, checkpoint [/scratch/nuthanapati.v/module-09-PriyaNEU/results/trinity_de_novo.transdecoder_dir.__checkpoints_longorfs/base_freqs_file.ok] exists.
+-skipping long orf extraction, already completed earlier as per checkpoint: results/trinity_de_novo.transdecoder_dir.__checkpoints_longorfs/TD.longorfs.ok

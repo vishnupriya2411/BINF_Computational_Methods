@@ -5,7 +5,7 @@
 # Methods 
 ## Running BLAST 
 ### input data
-The input data is the data which is being retrieved from module-08 results. It's been retrieved by generating symbolic links to access data from module8. Now the data file is .fasta files. The data files are imported from previous module. 
+The input data is the data which is being retrieved from Transcriptome-Assembly-Analysis results. It's been retrieved by generating symbolic links to access data from module8. Now the data file is .fasta files. The data files are imported from previous module. 
 ### BLAST 
 - `BLAST` Basic Local Alignment Search Tool performs speed-optimized local alignment searches between a query and a sequence database. These begin with a "word" of size "W" that scores higher than a cutoff "T." The alignment is then extended in every direction, looking for one with a score of "S" or above.`makeblastdb` uses to convert .fasta file into BLAST database and creates `Trinity.fasta`. Trinity.fasta has mRNA sequences, to align it with Swissport which is protein database. `blastx` is used to align input query to the database. 
 ### Transcoder

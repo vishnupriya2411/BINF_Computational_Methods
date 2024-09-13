@@ -7,7 +7,7 @@
 # Methods 
 ## Running transcriptome assembly for mutliple fastq files 
 ### input data 
-- The input data is the data which is being retrieved from module-07 results. It's been retrieved by generating `symbolic links` to access data from module7. Now the input data is trimmed fastq files, sam and bam files. The data files are imported from previous module.
+- The input data is the data which is being retrieved from RNASeq Module. It's been retrieved by generating `symbolic links` to access data from module7. Now the input data is trimmed fastq files, sam and bam files. The data files are imported from previous module.
 - Using BAM files to assemble a reference-guided transcriptome. 
 - Using quality-trimmed reads to assemble a de-novo transcriptome. 
 ### Created shell scripts
